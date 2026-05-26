@@ -6,7 +6,8 @@ https://github.com/user-attachments/assets/94d0741f-e5c2-44c8-a85b-054c38cb1c22
 
 <table>
   <td>
-<img width="1125" height="432" alt="3" src="https://github.com/user-attachments/assets/a7aea52e-1b30-44df-8c6d-d7f624ab9c85" />
+
+<img width="980" height="414" alt="3" src="https://github.com/user-attachments/assets/106b7bcd-f2e5-4f98-91d7-f20ed1e127c2" />
 
 </td>
 
