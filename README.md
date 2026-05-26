@@ -19,13 +19,13 @@
 
 <td>
 
-<img width="829" height="384" alt="2" src="https://github.com/user-attachments/assets/c64a1aed-6c22-4b51-a8df-ec2fbffbf089" />
+<img width="980" height="414" alt="2" src="https://github.com/user-attachments/assets/bcf9e5b2-efcd-4f4a-b5ec-6e23d86e9478" />
 
 </td>
 
 <td>
 
-### [config.jsonc](configs/2.jsonc)
+## [config.jsonc](configs/2.jsonc)
 
 </td>
 
