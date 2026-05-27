@@ -106,7 +106,7 @@
 
 <td>
 
-## [config.json](configs/TF2 Soldier EpikBoi's config)
+## [config.jsonc](configs/TF2Soldier-config)
 
 </td>
 
